@@ -1,2 +1,1 @@
-# rsschool-2019Q1-cv
-Markdown &amp; Git task (CV)
+https://github.com/vakarianxn/rsschool-2019Q1-cv/blob/gh-pages/cv
