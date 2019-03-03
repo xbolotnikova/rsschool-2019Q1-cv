@@ -21,7 +21,7 @@ I'm very good and fast at learning new stuff — give some time and I'll find out 
 * Bitbucket
 
 ### Code examples: ###
-You can see some of them in my [GitHub repository](https://github.com/vakarianxn/code-examples).
+You can see some of them in [my GitHub repository](https://github.com/vakarianxn/code-examples).
 
 ### Experience: ###
 Almost a year as release-manager at Flo, which included manual testing, working with Git, Bitbucket, CDN (file management via FTP), Smartcat.
