@@ -37,7 +37,7 @@
     padding: 20px;
     margin: 0 auto;
     text-align: center;
-    color: #34afaf;
+    color: #00a8a8;
   }
 
   h2 {
@@ -47,6 +47,7 @@
     font-size: 20px;
     line-height: 23px;
     padding: 20px 0px 10px 0px;
+    color: #00a8a8;
   }
 
   body {
@@ -54,12 +55,12 @@
   }
 
   main {
-      width: 1024px;
-      margin: 0 auto;
-      padding: 20px 30px;
-      border: 1px transparent;
-      border-radius: 15px;
-      background-color: white;
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px 30px;
+    border: 1px transparent;
+    border-radius: 15px;
+    background-color: white;;
   }
 
   ul {
@@ -78,7 +79,7 @@
 header {
     font-family: "MavenPro", sans-serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 700;
     font-size: 30px;
     line-height: 23px;
     width: 1024px;
@@ -90,13 +91,31 @@ header {
     border-radius: 15px;
 }
 
-.contacts {
+.contacts h4 {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    padding: 10px 0px;
+}
+
+.contacts h2 {
     font-family: "MavenPro", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
     line-height: 23px;
-    padding: 20px 0px 10px 0px;
+    padding: 10px 0px;
+    color: #00a8a8;
+}
+
+a:link {
+    color: #00a8a8;
+}
+
+a:visited {
+    color: #191919;
 }
 
 .photo {
@@ -108,3 +127,5 @@ header {
     border: 1px transparent;
     border-radius: 15px;
 }
+
+
