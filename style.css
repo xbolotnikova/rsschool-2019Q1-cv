@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+
+  p {
+      font-family: "MavenPro", sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+      list-style-type: 4px circle;
+      color: grey;
+  }
+
+  h1 {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 545;
+    font-size: 25px;
+    line-height: 23px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    color: #34afaf;
+  }
+
+  h2 {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 20px 0px 10px 0px;
+  }
+
+
+
+  main {
+      width: 1024px;
+      margin: 0 auto;
+      padding: 20px 30px;
+      border: 1px transparent;
+      border-radius: 15px;
+      background-color: white;
+  }
+
+  ul {
+      padding-left: 20px;
+  }
+
+  ul li {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: grey;
+}
+
+header {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 23px;
+    width: 1024px;
+    margin: 40px auto 30px auto;
+    border-bottom: 1px solid grey;
+    background-color: white;
+    padding: 0px 20px;
+    border: 1px transparent;
+    border-radius: 15px;
+}
+
+.contacts {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 20px 0px 10px 0px;
+}
