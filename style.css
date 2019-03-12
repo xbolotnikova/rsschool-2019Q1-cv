@@ -85,3 +85,13 @@ header {
     line-height: 23px;
     padding: 20px 0px 10px 0px;
 }
+
+.photo {
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-top: 23px;
+    margin-left: 25px;
+    border: 1px transparent;
+    border-radius: 15px;
+}
