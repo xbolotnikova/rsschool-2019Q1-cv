@@ -36,7 +36,9 @@
     padding: 20px 0px 10px 0px;
   }
 
-
+  body {
+    background-image: url("./bg.png");
+  }
 
   main {
       width: 1024px;
