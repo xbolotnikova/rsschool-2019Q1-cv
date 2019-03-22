@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+/* maven-pro-regular - latin */
+@font-face {
+    font-family: 'Maven Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/maven-pro-v11-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local('Maven Pro Regular'), local('MavenPro-Regular'),
+         url('../fonts/maven-pro-v11-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/maven-pro-v11-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/maven-pro-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/maven-pro-v11-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/maven-pro-v11-latin-regular.svg#MavenPro') format('svg'); /* Legacy iOS */
+  }
+
+  p {
+      font-family: "MavenPro", sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+      list-style-type: 4px circle;
+      color: grey;
+  }
+
+  h1 {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 545;
+    font-size: 25px;
+    line-height: 23px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+    color: #00a8a8;
+  }
+
+  h2 {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 20px 0px 10px 0px;
+    color: #00a8a8;
+  }
+
+  body {
+    background-image: url("./bg.png");
+  }
+
+  main {
+    width: 1000px;
+    margin: 0 auto;
+    padding: 20px 30px;
+    border: 1px transparent;
+    border-radius: 15px;
+    background-color: white;;
+  }
+
+  ul {
+      padding-left: 20px;
+  }
+
+  ul li {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color: grey;
+}
+
+header {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 23px;
+    width: 1024px;
+    margin: 40px auto 30px auto;
+    border-bottom: 1px solid grey;
+    background-color: white;
+    padding: 0px 20px;
+    border: 1px transparent;
+    border-radius: 15px;
+}
+
+.contacts h4 {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+    padding: 10px 0px;
+}
+
+.contacts h2 {
+    font-family: "MavenPro", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 10px 0px;
+    color: #00a8a8;
+}
+
+a:link {
+    color: #00a8a8;
+}
+
+a:visited {
+    color: #191919;
+}
+
+.photo {
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-top: 23px;
+    margin-left: 25px;
+    border: 1px transparent;
+    border-radius: 15px;
+}
+
+
